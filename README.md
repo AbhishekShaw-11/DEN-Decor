@@ -15,7 +15,7 @@ Cloned-Website:https://gleaming-tartufo-a756fb.netlify.app/allproduct#
 
 This is an home decor website which speciaizes in selling Sofas for all  caytegory. The website provides 33,000 products of different types Sofas,Beds, ligthing, Chairs, Almir , ShoesRack, Home Accessories.
 
-In this project we have tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With our efforts and the technology stack, that we have learned till Unit-3 in the Masai School, we were able to clone the whole website with same looking & features.
+In this project we have tried to manipulate dom elements, styling using css and tried to make website more dynamic and responsive. With our efforts and the technology stack, we were able to clone the whole website with same looking & features.
 
 
 # Technology Stack Used 🌟
