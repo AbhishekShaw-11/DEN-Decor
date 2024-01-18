@@ -6,7 +6,8 @@
 ### For Home Decorating* 
 Project: Make a clone of urbanladder.com website.
 Original-Website: https://www.urbanladder.com
-Cloned-Website:https://gleaming-tartufo-a756fb.netlify.app/allproduct#
+Cloned-Website:https://gleaming-tartufo-a756fb.netlify.app
+
 ## Landing Page
 ![denDecor](https://github.com/rohansah29/entertaining-snails-6673/assets/119648587/8e7ec967-f40c-4e37-9d1e-abcf59bbc1d3)
 
